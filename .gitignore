@@ -1,0 +1,6 @@
+# ignore ipynb checkpoints
+.ipynb_checkpoints
+
+# ignore datasets
+*.csv
+*.data
