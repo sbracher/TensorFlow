@@ -5,3 +5,6 @@ Follows the tutorial at tensorflow.org to train your first neural network using 
 
 ## [Text Classification](text-classification.ipynb)
 Follows the tutorial at tensorflow.org for text classification using the IMDB movie review dataset. Classifies each movie review as either positive or negative. More info at https://www.tensorflow.org/tutorials/keras/basic_text_classification
+
+## [Regression](regression.ipynb)
+Follows the tutorial at tensorflow.org for regression using the Boston Housing Prices dataset. Predicts house prices based on set of normalized features. More info at https://www.tensorflow.org/tutorials/keras/basic_regression
